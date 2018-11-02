@@ -3,7 +3,7 @@ See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. I 
 
 # The Prompts
 * Nov. 1: **#avoidlipo**
-    
+
     Start off with a fairly comfy constraint. It's a day for imitating our old Oulipo pal, Anton Vowl. That most common symbol, our fifth if going from A to Z: don't put it in your writing. Not today, for NaNoLiPo; not any day, for [oulipo.social](https://oulipo.social/).
 * Nov. 2: **#monosyllablipo** -- All words in your text must consist of exactly one syllable.
 * Nov. 3: **#punchcardlipo** -- Each sentence in your text must contain [exactly 80 characters](https://en.wikipedia.org/wiki/Punched_card#IBM_80-column_punched_card_format_and_character_codes).
@@ -11,6 +11,7 @@ See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. I 
 * Nov. 5: **#vomitlipo** -- In your text, the order of consonant phonemes in each word must follow the [place of articulation](https://en.wikipedia.org/wiki/English_phonology); start with phonemes articulated at the back of the mouth, end with phonemes articulated at the front. For instance, "good" starts at the velum and ends at the alveolar ridge. You can follow the [table in this article](https://en.wikipedia.org/wiki/English_phonology#Consonants) from right to left.
 * Nov. 6: **#mirrorlipo** -- You may only use letters that have at least one axis of symmetry.
 * Nov. 7: **#interleaflipo** -- Reading every other word in your text must still yield a full, valid text.
+* Nov. 8: **#recyclipo** -- The same set of letters must appear in each sentence of your text.
 * Nov. 9: **#quintilipo** -- All words in your text must contain at least 5 letters.
 * Nov. 10: **#vowelringlipo** -- The order in which the vowels a, e, i, o, u appear (across words) must stay the same throughout the text. You can pick the order of your vowels.
 * Nov. 11: **#monotonelipo** -- All words in your text must have the same length.
