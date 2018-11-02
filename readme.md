@@ -1,23 +1,10 @@
-# NaNoLiPo
-This is the repository for 2018's collaborative NaNoLiPo project.
-
-## What is Oulipo?
-Oulipo stands for [_Ouvroir de littérature potentielle_](https://en.wikipedia.org/wiki/Oulipo). It's an approach to creative writing in which you seek inspiration in formal constraints. One of the most famous published works written in oulipo is Georges Perec's [_La Disparition_](https://en.wikipedia.org/wiki/A_Void), a novel that does not contain a single instance of the letter "e".
-
-I've been a fan of constrained writing for years, but only got seriously into it when I joined Mouse Reeve's [oulipo.social](https://oulipo.social), a Mastodon instance that follows George Perec's constraint, which means it's impossible to post anything containing an e on the instance.
-
-More recent prior art includes the [Found Poetry Review's NaPoMo project in 2014](http://www.foundpoetryreview.com/oulipost/), which had participants write poems following oulipotic constraints and using linguistic material found in a daily newspaper.
-
-## How does NaNoLiPo work?
-The project runs throughout November of 2018. There is a prompt for each day, except that the prompt isn't a prompt, but a constraint. You can participate by writing something inspired by each day's prompt and posting your work as an issue in this repository. Feel free to also/instead post your results on social media, adding the hashtag du jour to make it easy to find your writing!
-
-## Who wins?
-Everybody wins. The original [NaNoWriMo](https://nanowrimo.org/) has you write 50,000 words; [NaNoGenMo](https://github.com/NaNoGenMo/2018) has you generate 50,000 words; in NaNoLiPo, the length of your text is not of interest. The only thing that matters is that you are happy with your finished writing that follows the rules of the day.
-
-If you're feeling extra creative, you can combine your NaNoLiPo efforts with another NaNo, for instance by creating a program that generates a text for each prompt, instead of writing the text yourself.
+# NaNoLiPo Autolipo
+See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. I will, day by day, convert each prompt into #autolipo form, each constraint complying with its own instructions.
 
 # The Prompts
-* Nov. 1: **#avoidlipo** -- Start off with a fairly comfy constraint. It's a day for imitating our old Oulipo pal, Anton Vowl. That most common symbol, our fifth if going from A to Z: don't put it in your writing. Not today, for NaNoLiPo; not any day, for [oulipo.social](https://oulipo.social/).
+* Nov. 1: **#avoidlipo**
+    
+    Start off with a fairly comfy constraint. It's a day for imitating our old Oulipo pal, Anton Vowl. That most common symbol, our fifth if going from A to Z: don't put it in your writing. Not today, for NaNoLiPo; not any day, for [oulipo.social](https://oulipo.social/).
 * Nov. 2: **#monosyllablipo** -- All words in your text must consist of exactly one syllable.
 * Nov. 3: **#punchcardlipo** -- Each sentence in your text must contain [exactly 80 characters](https://en.wikipedia.org/wiki/Punched_card#IBM_80-column_punched_card_format_and_character_codes).
 * Nov. 4: **#tautogramlipo** -- All words in your text must [begin with the same letter](https://en.wikipedia.org/wiki/Tautogram). You can choose the letter.
