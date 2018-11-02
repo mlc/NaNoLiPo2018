@@ -1,11 +1,15 @@
 # NaNoLiPo Autolipo
-See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. I will, day by day, convert each prompt into #autolipo form, each constraint complying with its own instructions.
+See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. [I](https://oulipo.social/@mlc) will, day by day, convert each prompt into #autolipo form, each constraint complying with its own instructions.
 
 # The Prompts
 * Nov. 1: **#avoidlipo**
 
     Start off with a fairly comfy constraint. It's a day for imitating our old Oulipo pal, Anton Vowl. That most common symbol, our fifth if going from A to Z: don't put it in your writing. Not today, for NaNoLiPo; not any day, for [oulipo.social](https://oulipo.social/).
-* Nov. 2: **#monosyllablipo** -- All words in your text must consist of exactly one syllable.
+
+* Nov. 2: **#monosyllablipo**
+
+    Each word in your text may have but one lone beat in it. Short words, but big thoughts: can you do it? Can you do it, and still say things of worth? What is a “thing of worth”, and who is a judge of that? Lots of folks wrote quite good, long texts on day one. Will the same count do so now, for day two? So much to ask, so much to think, such a big world, but such small words to fill it.
+
 * Nov. 3: **#punchcardlipo** -- Each sentence in your text must contain [exactly 80 characters](https://en.wikipedia.org/wiki/Punched_card#IBM_80-column_punched_card_format_and_character_codes).
 * Nov. 4: **#tautogramlipo** -- All words in your text must [begin with the same letter](https://en.wikipedia.org/wiki/Tautogram). You can choose the letter.
 * Nov. 5: **#vomitlipo** -- In your text, the order of consonant phonemes in each word must follow the [place of articulation](https://en.wikipedia.org/wiki/English_phonology); start with phonemes articulated at the back of the mouth, end with phonemes articulated at the front. For instance, "good" starts at the velum and ends at the alveolar ridge. You can follow the [table in this article](https://en.wikipedia.org/wiki/English_phonology#Consonants) from right to left.
