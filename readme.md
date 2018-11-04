@@ -19,7 +19,10 @@ See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. [I
     Never more (it won't fit), never less (it'd waste money): a Goldilocks approach.
     ```
 
-* Nov. 4: **#tautogramlipo** -- All words in your text must [begin with the same letter](https://en.wikipedia.org/wiki/Tautogram). You can choose the letter.
+* Nov. 4: **#tautogramlipo**
+
+    Primary position per phrase part: [put perpetually](https://en.wikipedia.org/wiki/Tautogram) ‘p’. (‘P’ phobia? Preference? Pass ‘p’; pick personally.)
+
 * Nov. 5: **#vomitlipo** -- In your text, the order of consonant phonemes in each word must follow the [place of articulation](https://en.wikipedia.org/wiki/English_phonology); start with phonemes articulated at the back of the mouth, end with phonemes articulated at the front. For instance, "good" starts at the velum and ends at the alveolar ridge. You can follow the [table in this article](https://en.wikipedia.org/wiki/English_phonology#Consonants) from right to left.
 * Nov. 6: **#mirrorlipo** -- You may only use letters that have at least one axis of symmetry.
 * Nov. 7: **#interleaflipo** -- Reading every other word in your text must still yield a full, valid text.
