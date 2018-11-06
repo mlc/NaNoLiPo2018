@@ -23,7 +23,10 @@ See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. [I
 
     Primary position per phrase part: [put perpetually](https://en.wikipedia.org/wiki/Tautogram) ‘p’. (‘P’ phobia? Preference? Pass ‘p’; pick personally.)
 
-* Nov. 5: **#vomitlipo** -- In your text, the order of consonant phonemes in each word must follow the [place of articulation](https://en.wikipedia.org/wiki/English_phonology); start with phonemes articulated at the back of the mouth, end with phonemes articulated at the front. For instance, "good" starts at the velum and ends at the alveolar ridge. You can follow the [table in this article](https://en.wikipedia.org/wiki/English_phonology#Consonants) from right to left.
+* Nov. 5: **#vomitlipo**
+
+    It's a day to know how [sounds are joined into words](https://en.wikipedia.org/wiki/English_phonology). Analyze each word you use, and hear its consonantal sounds. In each word, you should set off with glottal sounds and go to your lip. [Here's a list of okay words](https://gist.github.com/mlc/732f3ed2e7fa894c77c787cbdca48509), if you want help. Not the easiest job; give it a go, and see what you can do!
+
 * Nov. 6: **#mirrorlipo** -- You may only use letters that have at least one axis of symmetry.
 * Nov. 7: **#interleaflipo** -- Reading every other word in your text must still yield a full, valid text.
 * Nov. 8: **#recyclipo** -- The same set of letters must appear in each sentence of your text.
