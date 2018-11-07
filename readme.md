@@ -27,7 +27,10 @@ See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. [I
 
     It's a day to know how [sounds are joined into words](https://en.wikipedia.org/wiki/English_phonology). Analyze each word you use, and hear its consonantal sounds. In each word, you should set off with glottal sounds and go to your lip. [Here's a list of okay words](https://gist.github.com/mlc/732f3ed2e7fa894c77c787cbdca48509), if you want help. Not the easiest job; give it a go, and see what you can do!
 
-* Nov. 6: **#mirrorlipo** -- You may only use letters that have at least one axis of symmetry.
+* Nov. 6: **#mirrorlipo**
+
+     ToDAY wE SHouT: IT'S VOTIN' DAY IN THE USA! BUT, AS WITH ANY DAY IN NOV., WE CAN'T USE ANY TOTEM IN TEXT. TO BE OKAY, YOU MUST ACHIEVE AN ACT O' lITHENESS: SHOW EACH TOTEM IN A SEEIN'-YOU DOODAD, AND DISMISS IT WHEN THAT TOTEM IS NOT THE SAME AS IT WAS.
+
 * Nov. 7: **#interleaflipo** -- Reading every other word in your text must still yield a full, valid text.
 * Nov. 8: **#recyclipo** -- The same set of letters must appear in each sentence of your text.
 * Nov. 9: **#quintilipo** -- All words in your text must contain at least 5 letters.
