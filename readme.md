@@ -31,7 +31,10 @@ See [ohjann's repo](https://github.com/ojahnn/NaNoLiPo2018) for the original. [I
 
      ToDAY wE SHouT: IT'S VOTIN' DAY IN THE USA! BUT, AS WITH ANY DAY IN NOV., WE CAN'T USE ANY TOTEM IN TEXT. TO BE OKAY, YOU MUST ACHIEVE AN ACT O' lITHENESS: SHOW EACH TOTEM IN A SEEIN'-YOU DOODAD, AND DISMISS IT WHEN THAT TOTEM IS NOT THE SAME AS IT WAS.
 
-* Nov. 7: **#interleaflipo** -- Reading every other word in your text must still yield a full, valid text.
+* Nov. 7: **#interleaflipo**
+
+     Look deeply at all your current writing. Then, read only half of your written words. But not just any arbitrary half: you pick exactly every other word there. Your new text, as you now look directly at it this way, must still make much sense. Our USA is divided in half; so too is this day's text.
+
 * Nov. 8: **#recyclipo** -- The same set of letters must appear in each sentence of your text.
 * Nov. 9: **#quintilipo** -- All words in your text must contain at least 5 letters.
 * Nov. 10: **#vowelringlipo** -- The order in which the vowels a, e, i, o, u appear (across words) must stay the same throughout the text. You can pick the order of your vowels.
